@@ -932,8 +932,8 @@ min-width: 11rem;
 }
 .preview{
   top: 15%;
+  right:auto;
 justify-self: center;
-right:0;
 }
 
 .closePreview{
